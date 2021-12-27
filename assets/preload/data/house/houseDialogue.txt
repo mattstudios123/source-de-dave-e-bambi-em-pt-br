@@ -1,0 +1,6 @@
+setfont_normal:generic:Aqui temos Dave, cuidando da própria vida ...
+:bf: beb 
+:dave: Espera,quem é você?
+:dave: A espera, eu vi vocês dois um tempo atrás!
+:bf: beep bop
+:dave: Oh, voce quer cantar, então bora!

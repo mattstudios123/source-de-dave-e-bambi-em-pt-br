@@ -1,0 +1,6 @@
+setfont_code:dave:O QUE
+:dave:O QUE TÁ ACONTECENDO
+distort:dave:O MUNDO ESTÁ SE TORNANDO EM 3D
+:dave:POR FAVOR, AJUDE-ME A TORNAR-SE 2D
+:dave:PEGUE O MICROFONE E RESTAURE-ME DE VOLTA À FORMA DESTA REALIDADE
+setfont_normal:bf:B-beep..?
